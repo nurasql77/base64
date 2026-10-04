@@ -1,0 +1,11 @@
+{
+  "latest_version_code": 2,
+  "apk_url": "https://github.com/nurasql77/base64E/releases/download/v2.0/app-release.apk",
+  "force_update": false,
+  "show_menu": true,
+  "dialog_title": "Басты Мәзір",
+  "dialog_message": "Жаңа жаңартулар қосылды!",
+  "show_extra_btn": true,
+  "extra_btn_text": "Telegram",
+  "extra_btn_url": "https://t.me/SemantiKaTeam_AndroidPort"
+}
