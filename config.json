@@ -1,7 +1,7 @@
 {
   "latest_version_code": 2,
   "apk_url": "https://github.com/nurasql77/base64/releases/download/v2.0/app-release.apk",
-  "apk_sha256": "8090025131ddb0da53d2b5e679c2b0fc46177b980917305649109dc870fdc608",
+  "apk_sha256": "16c177d06206d4a129bb41a97db1fa44f4258b825ca3db07717079eb60246dcc",
   "force_update": true,
   "update_title": "Доступна новая версия!",
   "update_message": "Для продолжения необходимо обновить приложение.",
