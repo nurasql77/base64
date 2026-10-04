@@ -27,7 +27,7 @@
   "show_menu": true,
   "dialog_title": "Встроенный эмулятор GTA! ",
   "dialog_message": "Скоро выложим на канал",
-  "show_extra_btn": false,
+  "show_extra_btn": true,
   "extra_btn_text": "Telegram",
   "extra_btn_url": "https://t.me/SemantiKaTeam_AndroidPort"
 }
