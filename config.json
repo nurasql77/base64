@@ -30,7 +30,7 @@
   "show_extra_btn": false,
   "extra_btn_text": "Berlions",
   "extra_btn_url": "https://t.me/SemantiKaTeam_AndroidPort",
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_title": "Технические работы",
   "maintenance_message": "Приложение временно недоступно. Попробуйте позже."
 }
