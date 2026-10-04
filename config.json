@@ -24,7 +24,7 @@
   "cover_url": "",
   "logo2_url": "",
   "tg_logo_url": "",
-  "show_menu": false,
+  "show_menu": true,
   "dialog_title": "Встроенный эмулятор GTA! ",
   "dialog_message": "Скоро выложим на канал ",
   "show_extra_btn": true,
