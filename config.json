@@ -1,7 +1,7 @@
 {
   "latest_version_code": 2,
   "apk_url": "https://github.com/nurasql77/base64/releases/download/v2.0/app-release.apk",
-  "apk_sha256": "14b774c9695b0d5ee443573df7bca58b60d824c6c8cbcffdf12da986cdb55f82",
+  "apk_sha256": "d8e035d07f1b5ceea12bb3974bee21028df7e77cbe8c7e218d65676c110bd86d",
   "force_update": true,
   "update_title": "Доступна новая версия!",
   "update_message": "Для продолжения необходимо обновить приложение.",
@@ -27,7 +27,7 @@
   "show_menu": true,
   "dialog_title": "Встроенный эмулятор GTA! ",
   "dialog_message": "Скоро выложим на канал",
-  "show_extra_btn": true,
+  "show_extra_btn": false,
   "extra_btn_text": "Telegram",
   "extra_btn_url": "https://t.me/SemantiKaTeam_AndroidPort"
 }
