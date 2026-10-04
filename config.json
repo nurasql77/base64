@@ -1,7 +1,7 @@
 {
   "latest_version_code": 2,
   "apk_url": "https://github.com/nurasql77/base64/releases/download/v2.0/app-release.apk",
-  "apk_sha256": "d8e035d07f1b5ceea12bb3974bee21028df7e77cbe8c7e218d65676c110bd86d",
+  "apk_sha256": "69d8dca1369b3da3cf5b1536105ecbdeb3f9cf76dbdaa68e7b41e6a83faff659",
   "force_update": true,
   "update_title": "Доступна новая версия!",
   "update_message": "Для продолжения необходимо обновить приложение.",
@@ -29,5 +29,8 @@
   "dialog_message": "Скоро выложим на канал",
   "show_extra_btn": true,
   "extra_btn_text": "Telegram",
-  "extra_btn_url": "https://t.me/SemantiKaTeam_AndroidPort"
+  "extra_btn_url": "https://t.me/SemantiKaTeam_AndroidPort",
+  "maintenance": false,
+  "maintenance_title": "Технические работы",
+  "maintenance_message": "Приложение временно недоступно. Попробуйте позже."
 }
